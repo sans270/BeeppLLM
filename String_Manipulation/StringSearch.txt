@@ -1,0 +1,3 @@
+Write a python program that gets a phrase and gets a series of letters in the form of a word. 
+It then searches for the letters in that specific order in the phrase and sees if they are there. 
+It prints whether or not the letters are in the phrase in that order.

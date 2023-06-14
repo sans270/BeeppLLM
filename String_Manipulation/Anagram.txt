@@ -1,0 +1,1 @@
+Write a python program that gets two phrases from the user and finds if the phrases are anagrams or not.

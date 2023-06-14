@@ -1,0 +1,1 @@
+Write a python program that gets a phrase and a letter from the user and counts how many times that letter appears in the phrase.

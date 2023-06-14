@@ -1,0 +1,1 @@
+Write a python program that gets a word from the user and finds how many consonants there are in the words and prints the consonants in the word.

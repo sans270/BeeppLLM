@@ -1,0 +1,1 @@
+Write a python program that gets two words from the user and finds the longest common prefix of the two words.

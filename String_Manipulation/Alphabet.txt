@@ -1,0 +1,1 @@
+Write a python program that gets a phrase from the user and checks whether the phrase contains all the letters of the alphabet.

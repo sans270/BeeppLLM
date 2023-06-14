@@ -1,0 +1,2 @@
+Write a python program that gets a word from the user and finds the vowels in the word. 
+It prints the vowels in the word and the number of vowels in the word.
