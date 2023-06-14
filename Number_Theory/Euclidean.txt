@@ -1,0 +1,1 @@
+Write a python program that gets two numbers from a user and uses the Euclidean Algorithm to find the greatest common divisor.

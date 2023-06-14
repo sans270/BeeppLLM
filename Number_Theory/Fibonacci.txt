@@ -1,0 +1,1 @@
+Write a python program that gets a number from the user and lists that number of terms in the Fibonacci sequence.
