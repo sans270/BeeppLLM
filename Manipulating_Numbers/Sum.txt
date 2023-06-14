@@ -1,0 +1,1 @@
+Write a python program that gets a number from a user, and finds all of the 2-digit and 3 digit numbers whose digits have a sum of that number

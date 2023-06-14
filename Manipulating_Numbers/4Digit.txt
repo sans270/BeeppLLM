@@ -1,0 +1,2 @@
+Write a python program that gets a 4 digit number from the user 
+and finds the values of the thousands, hundreds, tens, and ones places and prints them.

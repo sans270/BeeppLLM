@@ -1,0 +1,1 @@
+Write a python program that prints all of the 2-digit and 3-digit numbers whose digit sums are prime

@@ -1,0 +1,2 @@
+Write a python program that gets a number from a user and whether they want integers or decimals,
+and generates 2 vectors of either integers or decimals with that many random numbers in them and adds the two vectors and prints the two vectors and the added vector.

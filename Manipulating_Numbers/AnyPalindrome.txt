@@ -1,0 +1,1 @@
+Write a python program that gets a number from a user and finds if it is a palindrome or not
