@@ -1,0 +1,2 @@
+Write a python program that get a number from the user, and the user enters that many numbers into a list. 
+Then it finds the biggest number in the list.

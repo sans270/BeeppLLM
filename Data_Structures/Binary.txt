@@ -1,0 +1,1 @@
+Write a python program to check if a number is in binary or not.

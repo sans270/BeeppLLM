@@ -1,0 +1,3 @@
+Write a python program that gets a number from a user, and generates a list of that many 2-digit random numbers. 
+Then it does this again with another input number and a second list of 2-digit random numbers. 
+It combines the two lists into a big list, and sorts the big list from least to greatest without using the sort function.

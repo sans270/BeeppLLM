@@ -1,0 +1,3 @@
+Write a python program that first asks the user how many items they would like to add to their list. Then it asks the user for each item to add.
+It prints the list, and asks what the user would like to search for in the list. It checks if the item is in the list, and if it is not,
+it asks the user if they want to add that item to the list.

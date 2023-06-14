@@ -1,0 +1,3 @@
+Write a python program that gets a number from user, and then prints that many 2-digit random numbers in a list,
+and then gets another number, and prints that many 2-digit numbers in a second list. 
+Then it combines the two lists into a big list and sorts the big list from least to greatest.
