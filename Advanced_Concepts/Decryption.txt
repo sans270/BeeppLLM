@@ -1,0 +1,4 @@
+Write a python program that gets the number of inputs from the user, 
+and then gets that many numbers from the user. It gets a number to multiply by and a mod. 
+Then it decrypts the numbers using modular multiplication based on the given inputs. 
+It then prints the decryption.

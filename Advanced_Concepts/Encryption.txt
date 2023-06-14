@@ -1,0 +1,1 @@
+Write a python program that gets a word from the user and gets a number to multiply by and a mod. Then it encrypts the word based on the given inputs and prints the encryption.
