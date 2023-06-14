@@ -1,0 +1,1 @@
+Write a python program that gets a number and a power from the user and calculates the number raised to the power.

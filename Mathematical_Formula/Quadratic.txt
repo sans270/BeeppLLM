@@ -1,0 +1,1 @@
+Write a python program that gets 3 numbers from a user and puts those 3 numbers into the quadratic formula, giving the factors.

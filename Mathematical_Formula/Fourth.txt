@@ -1,0 +1,1 @@
+Write a python program that gets a number and raises it to the fourth power

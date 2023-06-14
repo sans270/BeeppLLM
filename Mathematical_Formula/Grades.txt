@@ -1,0 +1,3 @@
+Write a python program that reads a file which has rows, with each row having a student’s name, two homework grades, two test grades, and a participation grade. 
+The program asks for the weights of the three categories and calculates the final grades for each student.
+In a new file, it writes the name of each student and the grades, adding the final grade at the end of each row

@@ -1,0 +1,1 @@
+Write a python program that gets the allowed spending amount and the expenditure for a year from the user, and then finds the surplus or deficit.

@@ -1,0 +1,1 @@
+Write a Python program that gets the temperature in Fahrenheit from the user and converts it to Celsius.

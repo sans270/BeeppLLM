@@ -1,0 +1,2 @@
+Write a python program that gets the gender of the user (male or female) and the length of the user's femur bone in inches. 
+Then it finds the approximate height of the user in inches based on their gender and the length of their femur bone in inches, and prints their height

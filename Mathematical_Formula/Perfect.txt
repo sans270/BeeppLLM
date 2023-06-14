@@ -1,0 +1,1 @@
+Write a python program that gets a number from the user and finds whether it is a perfect number or not.

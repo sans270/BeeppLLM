@@ -1,0 +1,1 @@
+Write a python program that gets the principal, rate of interest in percent, and time of interest in years, and calculates the simple interest.

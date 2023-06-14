@@ -1,0 +1,4 @@
+Write a python program that reads file which has name of student, two homework and test grades and one participation grade.
+Calculates the final grade based on given weights by user for each category. In new file, writes original file with final grade at end of each row.
+Finds mean, median, variance, standard deviation of the final grades. Prints them. Finds what letter grade for each student is, 
+based on input of minimum grade for letters given by user. Prints them.
