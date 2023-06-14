@@ -1,0 +1,1 @@
+Write a python program that calculates the hypotenuse of a right triangle when given two legs.

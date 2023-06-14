@@ -1,0 +1,1 @@
+Write a Python program that sees if two given right triangle legs are part of a Pythagorean triple.
