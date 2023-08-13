@@ -1,0 +1,1 @@
+Write a python program that gets inputs from the user of the row and column dimensions of a matrix, as well as the range in which the numbers in the matrix are in. Then, it generates a random matrix based on the given inputs.

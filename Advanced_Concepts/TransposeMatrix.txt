@@ -1,0 +1,1 @@
+Write a python program that generates a random matrix when given the number of rows and columns in the matrix and the range in which the numbers in the matrix are in. Then, it finds the transpose of the matrix.
