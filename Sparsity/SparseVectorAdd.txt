@@ -1,0 +1,3 @@
+Write a python program that gets a total number of entries and two sparsity ratios from the user. 
+It then creates two sparse vectors using the sparsity ratios and the total number of entries. It prints both the sparse vectors. 
+Finally, it adds the two sparse vector into a added vector and prints the added vector.
