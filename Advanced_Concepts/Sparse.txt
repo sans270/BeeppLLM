@@ -1,2 +1,0 @@
-Write a python program that asks the user for dimension of the sparse vector, and two sparsity ratios. 
-Create two random sparse vectors using the provided information. Print the two vectors.
