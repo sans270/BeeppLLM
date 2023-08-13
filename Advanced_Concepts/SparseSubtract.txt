@@ -1,3 +1,0 @@
-Write a python program that creates two sparse vectors by getting a total number of entries and two sparsity ratios from the user, 
-and then generating random numbers for the sparse vectors and random positions for the numbers in the sparse vectors, and it prints the two sparse vectors and the positions.
-It then subtracts the two sparse vectors and prints the subracted vector and the positions of the subtracted vector.
